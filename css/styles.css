@@ -1,4 +1,6 @@
-
+* {
+    background-color: chartreuse; /*thatto*/
+}
 .container-fluid{
     text-align: center;
     width: 100vh;
